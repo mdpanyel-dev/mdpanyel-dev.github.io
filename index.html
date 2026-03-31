@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murder Party - Resuelve el Misterio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Murder Party</h1>
+            <p class="subtitle">Resuelve las pruebas y descubre al culpable</p>
+        </header>
+
+        <main>
+            <!-- Vista inicial: selección de pruebas -->
+            <section id="pruebasView" class="view active">
+                <h2>Selecciona una Prueba</h2>
+                <div id="pruebasList" class="pruebas-grid">
+                    <!-- Las pruebas se cargarán dinámicamente -->
+                </div>
+            </section>
+
+            <!-- Vista del formulario de respuesta -->
+            <section id="formularioView" class="view">
+                <button class="btn-back" onclick="volverAPruebas()">← Volver</button>
+                
+                <div class="prueba-card">
+                    <h2 id="pruebaTitle">Prueba #</h2>
+                    <img id="descripcionImagen" class="prueba-imagen" style="display: none;" alt="Imagen de la prueba">
+                    <p id="pruebaDescripcion" class="descripcion"></p>
+                    
+                    <form id="respuestaForm" class="respuesta-form">
+                        <label for="respuestaInput">Tu respuesta:</label>
+                        <input 
+                            type="text" 
+                            id="respuestaInput" 
+                            placeholder="Escribe tu respuesta aquí..." 
+                            autocomplete="off"
+                            required
+                        >
+                        <button type="submit" class="btn-submit">Comprobar Respuesta</button>
+                    </form>
+
+                    <div id="feedback" class="feedback"></div>
+                </div>
+            </section>
+
+            <!-- Vista de la pista -->
+            <section id="pistaView" class="view">
+                <div class="pista-card">
+                    <div class="success-icon">✓</div>
+                    <h2>¡Respuesta Correcta!</h2>
+                    <div class="pista-content">
+                        <h3>🎯 Pista Desbloqueada:</h3>
+                        <img id="pistaImagen" class="prueba-imagen" style="display: none;" alt="Imagen de la pista">
+                        <p id="pistaTexto" class="pista-texto"></p>
+                    </div>
+                    <div class="button-group">
+                        <button class="btn-primary" onclick="volverAPruebas()">Resolver Otra Prueba</button>
+                        <button class="btn-secondary" onclick="verPistasRecolectadas()">Ver Mis Pistas</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Vista de pistas recolectadas -->
+            <section id="pistasRecolectadasView" class="view">
+                <button class="btn-back" onclick="volverAPruebas()">← Volver</button>
+                <h2>🗂️ Pistas Recolectadas</h2>
+                <div id="pistasRecolectadasList" class="pistas-list">
+                    <!-- Las pistas se cargarán dinámicamente -->
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p id="progreso">Pruebas resueltas: <span id="pruebasResueltas">0</span> / <span id="totalPruebas">0</span></p>
+            
+            <div id="pruebasResueltasContainer" class="pruebas-resueltas-container">
+                <h3 class="pruebas-resueltas-title">🏆 Pruebas Resueltas</h3>
+                <div id="pruebasResueltasList" class="pruebas-resueltas-list">
+                    <p class="sin-pruebas">Aún no has resuelto ninguna prueba</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
