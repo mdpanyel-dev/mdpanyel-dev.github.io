@@ -1,64 +1,64 @@
 [
     {
         "numero": 1,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "3741",
+        "pista": "Encuentras una pistola con huellas dactilares en la habitación del jugador 1",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 2,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "1353",
+        "pista": "Encuentras una caja de pastillas vacía en la habitación del jugador 2",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 3,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "SANGRE",
+        "pista": "Encuentras manchas de lejía en la ropa del jugador 4",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 4,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "pista",
+        "pista": "Encuentras una jeringuilla usada en la habitación del jugador 6.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 5,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "2703",
+        "pista": "Encuentras cuerdas en la habitación del jugador 7.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 6,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "4441",
+        "pista": "Encuentras una joya entre las pertenencias del jugador 5.",
         "pistaImagen": "",
         "completada": false
     },
-    {
+        {
         "numero": 7,
         "descripcion": "",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "31022",
+        "pista": "No hay restos de pólvora en el cadáver, lo que descarta un arma de fuego",
         "pistaImagen": "",
         "completada": false
     },
@@ -67,43 +67,42 @@
         "descripcion": "",
         "descripcionImagen": "",
         "respuesta": "",
-        "pista": "",
+        "pista": "El cadáver no presenta sustancias aceitosas, lo que descarta la motosierra y la sartén.",
         "pistaImagen": "",
         "completada": false
-    },
-    {
+    },    {
         "numero": 9,
         "descripcion": "",
         "descripcionImagen": "",
         "respuesta": "",
-        "pista": "",
+        "pista": "El cadáver no presenta olores fuertes, lo que descarta la lejía y el anticongelante.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 10,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "HUELLA",
+        "pista": "Encuentras un destornillador ensangrentado con huellas dactilares.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 11,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "52741",
+        "pista": "Encuentras una mancha de sangre en el marco de la puerta junto a la bisagra.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 12,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "codigo",
+        "pista": "Las cámaras detectaron al jugador 2 o al jugador 7 pasando por la cocina.",
         "pistaImagen": "",
         "completada": false
     },
@@ -112,7 +111,7 @@
         "descripcion": "",
         "descripcionImagen": "",
         "respuesta": "",
-        "pista": "",
+        "pista": "La cama del jugador 3 está hecha y parece que no durmió en ella",
         "pistaImagen": "",
         "completada": false
     },
@@ -121,7 +120,7 @@
         "descripcion": "",
         "descripcionImagen": "",
         "respuesta": "",
-        "pista": "",
+        "pista": "Encuentras varios libros sobre crímenes en la habitación del jugador 3",
         "pistaImagen": "",
         "completada": false
     },
@@ -130,7 +129,7 @@
         "descripcion": "",
         "descripcionImagen": "",
         "respuesta": "",
-        "pista": "",
+        "pista": "Encuentra una tarjeta de 'Vida Digna Animal' entre las pertenencias del jugador 7. ",
         "pistaImagen": "",
         "completada": false
     },
@@ -174,8 +173,8 @@
         "numero": 20,
         "descripcion": "",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "15172",
+        "pista": "El cuchillo de cocina no fue el arma del crimen",
         "pistaImagen": "",
         "completada": false
     },
@@ -192,8 +191,8 @@
         "numero": 22,
         "descripcion": "",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "427",
+        "pista": "El cadáver no presenta restos de tierra, lo que descarta la pala y el serrucho.",
         "pistaImagen": "",
         "completada": false
     },
@@ -208,36 +207,36 @@
     },
     {
         "numero": 24,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "bolsa",
+        "pista": "La policía descarta la bolsa de plástico como arma.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 25,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
+        "respuesta": "15833",
         "pista": "",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 26,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
+        "respuesta": "4312",
         "pista": "",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 27,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
+        "respuesta": "2626",
         "pista": "",
         "pistaImagen": "",
         "completada": false
