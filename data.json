@@ -55,7 +55,7 @@
     },
         {
         "numero": 7,
-        "descripcion": "",
+        "descripcion": "Une las ? en orden para encontrar el código secreto",
         "descripcionImagen": "",
         "respuesta": "31022",
         "pista": "No hay restos de pólvora en el cadáver, lo que descarta un arma de fuego",
@@ -64,7 +64,7 @@
     },
     {
         "numero": 8,
-        "descripcion": "",
+        "descripcion": "Suma las 3 posibles soluciones para encontrar el código",
         "descripcionImagen": "",
         "respuesta": "",
         "pista": "El cadáver no presenta sustancias aceitosas, lo que descarta la motosierra y la sartén.",
@@ -72,9 +72,9 @@
         "completada": false
     },    {
         "numero": 9,
-        "descripcion": "",
+        "descripcion": "Descifra el código secreto en la constelación",
         "descripcionImagen": "",
-        "respuesta": "",
+        "respuesta": "565433",
         "pista": "El cadáver no presenta olores fuertes, lo que descarta la lejía y el anticongelante.",
         "pistaImagen": "",
         "completada": false
