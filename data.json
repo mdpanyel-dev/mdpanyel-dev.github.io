@@ -4,7 +4,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "3741",
-        "pista": "Encuentras una pistola con huellas dactilares en la habitación del jugador 1",
+        "pista": "Encuentras una pistola con huellas dactilares, avisa a la policía para que la analicen",
         "pistaImagen": "",
         "completada": false
     },
@@ -13,7 +13,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "1353",
-        "pista": "Encuentras una caja de pastillas vacía en la habitación del jugador 2",
+        "pista": "Paco Chatarra y Helena Galena no entraron al dormitorio doble durante toda la noche",
         "pistaImagen": "",
         "completada": false
     },
@@ -22,7 +22,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "SANGRE",
-        "pista": "Encuentras manchas de lejía en la ropa del jugador 4",
+        "pista": "Encuentras manchas de lejía en la ropa de Ernesto Pesto",
         "pistaImagen": "",
         "completada": false
     },
@@ -31,7 +31,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "pista",
-        "pista": "Encuentras una jeringuilla usada en la habitación del jugador 6.",
+        "pista": "Encuentras una jeringuilla usada en la habitación de Carmela Panela.",
         "pistaImagen": "",
         "completada": false
     },
@@ -40,7 +40,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "2703",
-        "pista": "Encuentras cuerdas en la habitación del jugador 7.",
+        "pista": "Encuentras cuerdas en la habitación de Tina Cortina.",
         "pistaImagen": "",
         "completada": false
     },
@@ -49,7 +49,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "4441",
-        "pista": "Encuentras una joya entre las pertenencias del jugador 5.",
+        "pista": "Encuentras una joya entre las pertenencias de Dolores Remedios.",
         "pistaImagen": "",
         "completada": false
     },
@@ -66,7 +66,7 @@
         "numero": 8,
         "descripcion": "Suma las 3 posibles soluciones para encontrar el código",
         "descripcionImagen": "",
-        "respuesta": "",
+        "respuesta": "6829",
         "pista": "El cadáver no presenta sustancias aceitosas, lo que descarta la motosierra y la sartén.",
         "pistaImagen": "",
         "completada": false
@@ -102,76 +102,76 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "codigo",
-        "pista": "Las cámaras detectaron al jugador 2 o al jugador 7 pasando por la cocina.",
-        "pistaImagen": "",
+        "pista": "Las cámaras detectaron a Lucía Pavía o a Tina Cortina pasando por la cocina.",
+        "pistaImagen": "1237",
         "completada": false
     },
     {
         "numero": 13,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "La cama del jugador 3 está hecha y parece que no durmió en ella",
+        "respuesta": "124648",
+        "pista": "La cama de Helena Galena está hecha y parece que no durmió en ella",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 14,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "Encuentras varios libros sobre crímenes en la habitación del jugador 3",
+        "respuesta": "23822",
+        "pista": "Encuentras varios libros sobre crímenes en la habitación de Helena Galena",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 15,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "Encuentra una tarjeta de 'Vida Digna Animal' entre las pertenencias del jugador 7. ",
+        "respuesta": "42373",
+        "pista": "Encuentra una tarjeta de 'Vida Digna Animal' entre las pertenencias de Tina Cortina. ",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 16,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "12345",
+        "pista": "No hay signos de apuñalamiento en el cadáver, lo que descarta el destornillador y el cuchillo de cocina como armas del crimen.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 17,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "4569",
+        "pista": " La policía descarta la almohada como arma del crimen.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 18,
-        "descripcion": "",
+        "descripcion":"Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "45691",
+        "pista": "La policía descarta el adoquín como arma del crimen.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 19,
-        "descripcion": "",
+        "descripcion":"Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "12584",
+        "pista": "La policía descarta el serrucho como arma del crimen.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 20,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "15172",
         "pista": "El cuchillo de cocina no fue el arma del crimen",
@@ -180,16 +180,16 @@
     },
     {
         "numero": 21,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "3745",
+        "pista": "Nadie entró al baño pequeño momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 22,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "427",
         "pista": "El cadáver no presenta restos de tierra, lo que descarta la pala y el serrucho.",
@@ -198,10 +198,10 @@
     },
     {
         "numero": 23,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "9186",
+        "pista": "Lucía Pavía y Dolores Remedios no pasaron por el pasillo trasero momentos antes del asesinato",
         "pistaImagen": "",
         "completada": false
     },
@@ -219,7 +219,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "15833",
-        "pista": "",
+        "pista": "El cadáver no tiene un color extraño, lo que descarta un medicamento o un veneno como arma del crimen",
         "pistaImagen": "",
         "completada": false
     },
@@ -228,7 +228,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "4312",
-        "pista": "",
+        "pista": "Nadie pasó del patio de las gallinas al pasillo trasero momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
@@ -237,34 +237,97 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "2626",
-        "pista": "",
+        "pista": "Nadie escaló del aparcamiento al patio de las gallinas momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 28,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "5437",
+        "pista": "Nadie pasó de las escaleras al patio de las gallinas momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 29,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "2951",
+        "pista": "Nadie entró al dormitorio grande la noche del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
     {
         "numero": 30,
-        "descripcion": "",
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
-        "respuesta": "",
-        "pista": "",
+        "respuesta": "1528",
+        "pista": "En las cámaras de seguridad pudieron ver a Helena Galena o Ernesto Pesto pasando por el baño poco antes del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 31,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "7394",
+        "pista": "Paco Chatarra y Helena Galena no pasaron por el patio principal momentos antes del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 32,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "8561",
+        "pista": "Ernesto Pesto y Carmela Panela no pasaron por la cocina durante toda la noche.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 33,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "9247",
+        "pista": "Dolores Remedios y Lucía Pavía no pasaron por el aparcamiento la noche del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 34,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "3658",
+        "pista": "Tina Cortina y Lucía Pavía no pasaron por el patio de las gallinas momentos antes del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 35,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "5192",
+        "pista": "Nadie entró al dormitorio del ordenador momentos antes del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 36,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "4873",
+        "pista": "Nadie entró al dormitorio de la despensa momentos antes del asesinato.",
+        "pistaImagen": "",
+        "completada": false
+    },
+    {
+        "numero": 37,
+        "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
+        "descripcionImagen": "",
+        "respuesta": "6420",
+        "pista": "Nadie subió las escaleras principales la noche del asesinato.",
         "pistaImagen": "",
         "completada": false
     }
