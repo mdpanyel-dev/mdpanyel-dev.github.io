@@ -6,7 +6,6 @@ let pistasRecolectadas = [];
 // Cargar datos al iniciar
 document.addEventListener('DOMContentLoaded', () => {
     cargarDatos();
-    cargarProgreso();
 });
 
 // Cargar datos desde el JSON
@@ -14,6 +13,7 @@ async function cargarDatos() {
     try {
         const response = await fetch('data.json');
         pruebas = await response.json();
+        cargarProgreso(); // Cargar progreso DESPUÉS de tener los datos
         renderizarPruebas();
         actualizarProgreso();
     } catch (error) {
@@ -277,9 +277,6 @@ function cargarProgreso() {
             if (progreso.pistas && Array.isArray(progreso.pistas)) {
                 pistasRecolectadas = progreso.pistas;
             }
-            
-            renderizarPruebas();
-            actualizarProgreso();
         } catch (error) {
             console.error('Error al cargar el progreso:', error);
         }
