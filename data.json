@@ -31,7 +31,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "pista",
-        "pista": "Encuentras una jeringuilla usada en la habitación de Carmela Panela, avisa a la policía para que la analicen",
+        "pista": "Encuentras una jeringuilla usada en la habitación de Carmela Panela, avisa a la policía para que la analicen. Puedes llevarte esta pista e intercambiarla con otros jugadores como una prueba de estrella",
         "pistaImagen": "",
         "completada": false
     },
