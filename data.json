@@ -31,7 +31,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "pista",
-        "pista": "Encuentras una jeringuilla usada en la habitación de Carmela Panela.",
+        "pista": "Encuentras una jeringuilla usada en la habitación de Carmela Panela, avisa a la policía para que la analicen",
         "pistaImagen": "",
         "completada": false
     },
@@ -40,7 +40,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "2703",
-        "pista": "Encuentras cuerdas en la habitación de Tina Cortina.",
+        "pista": "Encuentras cuerdas en el dormitorio doble entre las pertenencias de Tina Cortina.",
         "pistaImagen": "",
         "completada": false
     },
@@ -84,7 +84,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "HUELLA",
-        "pista": "Encuentras un destornillador ensangrentado con huellas dactilares.",
+        "pista": "Encuentras un destornillador ensangrentado con huellas dactilares, avisa a la policía para que lo investigue.",
         "pistaImagen": "",
         "completada": false
     },
@@ -246,7 +246,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "5437",
-        "pista": "Nadie pasó de las escaleras al patio de las gallinas momentos antes del asesinato.",
+        "pista": "Nadie pasó del patio de las escaleras al patio de las gallinas momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
@@ -282,7 +282,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "8561",
-        "pista": "Ernesto Pesto y Carmela Panela no pasaron por la cocina durante toda la noche.",
+        "pista": "Ernesto Pesto y Carmela Panela no pasaron por la cocina momentos antes del asesinato.",
         "pistaImagen": "",
         "completada": false
     },
@@ -327,7 +327,7 @@
         "descripcion": "Introduce el código que encontrarás en la parte trasera de la pieza",
         "descripcionImagen": "",
         "respuesta": "6420",
-        "pista": "Nadie subió las escaleras principales la noche del asesinato.",
+        "pista": "Nadie subió las escaleras principales a la casa la noche del asesinato.",
         "pistaImagen": "",
         "completada": false
     }
